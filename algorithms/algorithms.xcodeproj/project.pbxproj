@@ -11,6 +11,7 @@
 		810AB4A22BD61E9600E65B4A /* t137.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 810AB4A02BD61E9600E65B4A /* t137.cpp */; };
 		810AB4A52BD697D200E65B4A /* t201.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 810AB4A32BD697D200E65B4A /* t201.cpp */; };
 		810AB4A82BD7B8B200E65B4A /* t502.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 810AB4A62BD7B8B200E65B4A /* t502.cpp */; };
+		810AB4AB2BD7F70100E65B4A /* t373.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 810AB4A92BD7F70100E65B4A /* t373.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,8 @@
 		810AB4A42BD697D200E65B4A /* t201.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = t201.hpp; sourceTree = "<group>"; };
 		810AB4A62BD7B8B200E65B4A /* t502.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = t502.cpp; sourceTree = "<group>"; };
 		810AB4A72BD7B8B200E65B4A /* t502.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = t502.hpp; sourceTree = "<group>"; };
+		810AB4A92BD7F70100E65B4A /* t373.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = t373.cpp; sourceTree = "<group>"; };
+		810AB4AA2BD7F70100E65B4A /* t373.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = t373.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 			isa = PBXGroup;
 			children = (
 				810AB4992BD61E7200E65B4A /* main.cpp */,
+				810AB4A92BD7F70100E65B4A /* t373.cpp */,
+				810AB4AA2BD7F70100E65B4A /* t373.hpp */,
 				810AB4A62BD7B8B200E65B4A /* t502.cpp */,
 				810AB4A72BD7B8B200E65B4A /* t502.hpp */,
 				810AB4A02BD61E9600E65B4A /* t137.cpp */,
@@ -137,6 +142,7 @@
 				810AB4A82BD7B8B200E65B4A /* t502.cpp in Sources */,
 				810AB4A52BD697D200E65B4A /* t201.cpp in Sources */,
 				810AB49A2BD61E7200E65B4A /* main.cpp in Sources */,
+				810AB4AB2BD7F70100E65B4A /* t373.cpp in Sources */,
 				810AB4A22BD61E9600E65B4A /* t137.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
